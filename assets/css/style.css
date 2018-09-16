@@ -1,0 +1,30 @@
+body{
+    background-image: url("trivia_time.png");
+    text-align:justify;
+}
+
+div{
+    color: blacks;
+    font-size: 35px;
+    font-weight:bold;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.show-number{
+    font-size: 35px;
+    color: tomato;
+    text-align: center;
+}
+
+button{
+
+    font-size: 60px;
+    font-weight:bold;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    display:inline-block;
+    
+    padding:30px 42 px;
+
+}
